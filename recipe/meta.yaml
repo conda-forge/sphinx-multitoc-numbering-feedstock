@@ -5,7 +5,7 @@ package:
   version: {{ version }}
 
 source:
-  - url: https://pypi.org/packages/source/s/sphinx-multitoc-numbering/sphinx-multitoc-numbering{{ version }}.tar.gz
+  - url: https://pypi.org/packages/source/s/sphinx-multitoc-numbering/sphinx-multitoc-numbering-{{ version }}.tar.gz
     sha256: c9607671ac511236fa5d61a7491c1031e700e8d498c9d2418e6c61d1251209ae
   # TODO: remove after https://github.com/executablebooks/sphinx-multitoc-numbering/pull/19
   - url: https://raw.githubusercontent.com/executablebookssphinx-multitoc-numbering/v{{ version }}/LICENSE
