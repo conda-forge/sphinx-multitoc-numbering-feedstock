@@ -8,7 +8,7 @@ source:
   - url: https://pypi.org/packages/source/s/sphinx-multitoc-numbering/sphinx-multitoc-numbering-{{ version }}.tar.gz
     sha256: c9607671ac511236fa5d61a7491c1031e700e8d498c9d2418e6c61d1251209ae
   # TODO: remove after https://github.com/executablebooks/sphinx-multitoc-numbering/pull/19
-  - url: https://raw.githubusercontent.com/executablebookssphinx-multitoc-numbering/v{{ version }}/LICENSE
+  - url: https://raw.githubusercontent.com/executablebooks/sphinx-multitoc-numbering/v{{ version }}/LICENSE
     sha256: 88d2617b6aa5abba082c722476754a0aa17ddc0aa06e2e46f896e4bbb7d25b3d
 
 build:
